@@ -1,2 +1,1 @@
-# Deep_Learning_Classification
-Classification using deep learning 
+# Classification using deep learning 
